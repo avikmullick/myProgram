@@ -7,7 +7,7 @@ package firstprogram;
 
 /**
  *
- * @author avik
+ * @author avik mullick
  */
 public class FirstProgram {
 
